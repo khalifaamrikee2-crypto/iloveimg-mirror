@@ -28,6 +28,10 @@ export default {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
 				},
+				'iloveimg-blue': 'hsl(var(--iloveimg-blue))',
+				'iloveimg-light-blue': 'hsl(var(--iloveimg-light-blue))',
+				'iloveimg-gray': 'hsl(var(--iloveimg-gray))',
+				'iloveimg-text': 'hsl(var(--iloveimg-text))',
 				secondary: {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'

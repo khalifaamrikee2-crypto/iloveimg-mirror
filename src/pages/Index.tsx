@@ -27,7 +27,7 @@ const Index = () => {
       </main>
 
       {/* Footer */}
-      <footer className="bg-white border-t border-iloveimg-border py-6 mt-16">
+      <footer className="bg-white border-t border-border py-6 mt-16">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <p className="text-sm text-muted-foreground">
             © iLoveIMG 2025 - أدوات تحرير الصور المجانية

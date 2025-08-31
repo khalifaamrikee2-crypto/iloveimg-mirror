@@ -169,7 +169,7 @@ const ImageUploader = () => {
 
           <Button
             onClick={() => fileInputRef.current?.click()}
-            className="bg-iloveimg-blue hover:bg-iloveimg-blue/90 text-white px-8 py-3 text-lg font-medium rounded-lg mb-4 shadow-none border-0"
+            className="bg-primary hover:bg-primary/90 text-white px-8 py-3 text-lg font-medium rounded-lg mb-4"
             disabled={isProcessing}
           >
             {isProcessing ? (
